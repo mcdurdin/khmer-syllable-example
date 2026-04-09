@@ -9,6 +9,8 @@ menuDropdown.onclick = (value) => {
     location.href = 'https://keyman.com/keyboards/khmer_angkor';
   } else if(value == '#menu-normalizer') {
     location.href = 'https://normalize.xn--j2e7beiw1lb2hqg.com/';
+  } else if(value == '#menu-video') {
+    location.href = 'https://youtu.be/4F9O7o5cyT8';
   } else if(value == '#about') {
     let aboutModal = new bootstrap.Modal(document.getElementById('about-modal'));
     aboutModal.show();
