@@ -50,7 +50,7 @@ export const resources = {
         </p>
 
         <p>
-          &rArr; <a href="#" target="_blank">Watch the video</a>
+          &rArr; <a href="https://youtu.be/4F9O7o5cyT8" target="_blank">Watch the video</a>
         </p>
 
         <p>
@@ -234,7 +234,7 @@ export const resources = {
         </p>
 
         <p>
-          &rArr; <a href="#" target="_blank">មើលវីដេអូអំពីបញ្ហានិងដំណោះស្រាយ</a>
+          &rArr; <a href="https://youtu.be/4F9O7o5cyT8" target="_blank">មើលវីដេអូអំពីបញ្ហានិងដំណោះស្រាយ</a>
         </p>
 
         <p>
